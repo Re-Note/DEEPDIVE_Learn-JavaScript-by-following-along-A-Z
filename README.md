@@ -1,2 +1,2 @@
-# Netflix_Web_Site
-Netflix_Web_Site
+# DEEPDIVE_Learn JavaScript by following along A-Z
+DEEPDIVE_Learn JavaScript by following along A-Z
